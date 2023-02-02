@@ -3,7 +3,11 @@
   "displayName": "CSVConverter",
   "version": "0.1.0",
   "unity": "2019.3",
+  "unityRelease": "14f1",
   "description": "description.",
+  "keywords": [
+    "hugenekko"
+  ],
   "author": {
     "name": "hugenekko"
   }
