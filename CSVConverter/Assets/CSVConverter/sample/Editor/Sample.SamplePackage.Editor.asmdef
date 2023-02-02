@@ -1,0 +1,18 @@
+{
+    "name": "Sample.SamplePackage.Editor",
+    "references": [
+        "Sample.SamplePackage",
+	"Unity.JsonUtility"
+    ],
+    "optionalUnityReferences": [],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": []
+}
